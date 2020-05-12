@@ -6,8 +6,10 @@
 
 
 ## 软件目录 soft
-Edraw MindMaster Pro 7.2.rar 为破解软件，用于查看脑图
+- Edraw MindMaster Pro 7.2.rar 为破解软件，用于查看脑图
 
+## 书记目录 book
+- 这个里面是知乎、博客等网站推荐的，我也参考过的书籍，
 
 ## 文件目录说明
 在对应的章节下都包括`ipynb`与`py`两个文件夹，分别对应`.ipynb`版本与`.py`版本，但是本人在实验中使用的jupyter notebook, `.py`版本是自动生成的，代码的可读性，难以得到保证
